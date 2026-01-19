@@ -16,3 +16,14 @@ This repository contains my daily JavaScript practice while learning the fundame
 - includes
 - reverse string using loop
 - palindrome string check
+Day 3 – JavaScript Basics
+
+Programs:
+1. Check Even or Odd (even-odd.js)
+2. Find Factorial of a Number (factorial.js)
+
+Concepts used:
+- Variables
+- If-Else
+- For Loop
+- Basic Operators
