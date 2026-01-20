@@ -27,3 +27,16 @@ Concepts used:
 - If-Else
 - For Loop
 - Basic Operators
+
+- Day 4 – JavaScript Arrays
+
+Programs:
+1. Sum of array elements
+2. Maximum element in array
+3. Minimum element in array
+
+Concepts used:
+- Arrays
+- Loops
+- Conditions
+
