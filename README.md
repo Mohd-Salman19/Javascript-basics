@@ -40,3 +40,15 @@ Concepts used:
 - Loops
 - Conditions
 
+
+Day 5 – JavaScript Arrays
+
+Programs:
+1. Reverse an array
+2. Check if array is sorted
+
+Concepts used:
+- Arrays
+- Loops
+- Conditions
+
