@@ -52,3 +52,13 @@ Concepts used:
 - Loops
 - Conditions
 
+Day 6 – Array Problems
+
+Programs:
+1. Sort 0s and 1s
+2. Count frequency of elements
+
+Concepts used:
+- Arrays
+- Loops
+- Objects
