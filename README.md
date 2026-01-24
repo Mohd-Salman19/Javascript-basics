@@ -62,3 +62,8 @@ Concepts used:
 - Arrays
 - Loops
 - Objects
+
+Day 7 – Arrays Practice
+- Find maximum and minimum in array
+- Linear search in array
+- Sum and average of array elements
