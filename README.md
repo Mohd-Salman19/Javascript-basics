@@ -67,3 +67,8 @@ Day 7 – Arrays Practice
 - Find maximum and minimum in array
 - Linear search in array
 - Sum and average of array elements
+
+ Day 8 – Sorting and Array Operations
+- Bubble sort
+- Reverse an array
+- Find second largest element
