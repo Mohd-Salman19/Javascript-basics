@@ -72,3 +72,8 @@ Day 7 – Arrays Practice
 - Bubble sort
 - Reverse an array
 - Find second largest element
+
+- Day 9 – String Advanced Practice
+- Count vowels in a string
+- Remove spaces from a string
+- Find the longest word in a sentence
