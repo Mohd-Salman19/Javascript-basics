@@ -77,3 +77,8 @@ Day 7 – Arrays Practice
 - Count vowels in a string
 - Remove spaces from a string
 - Find the longest word in a sentence
+
+Day 10 – Patterns using Nested Loops
+- Star square pattern
+- Star right triangle pattern
+- Number triangle pattern
