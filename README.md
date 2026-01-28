@@ -1,4 +1,4 @@
-# JavaScript Basics Practice
+### JavaScript Basics Practice
 
 This repository contains my daily JavaScript practice while learning the fundamentals.
 
@@ -16,7 +16,7 @@ This repository contains my daily JavaScript practice while learning the fundame
 - includes
 - reverse string using loop
 - palindrome string check
-Day 3 – JavaScript Basics
+## Day 3 – JavaScript Basics
 
 Programs:
 1. Check Even or Odd (even-odd.js)
@@ -28,7 +28,7 @@ Concepts used:
 - For Loop
 - Basic Operators
 
-- Day 4 – JavaScript Arrays
+ ## Day 4 – JavaScript Arrays
 
 Programs:
 1. Sum of array elements
@@ -41,7 +41,7 @@ Concepts used:
 - Conditions
 
 
-Day 5 – JavaScript Arrays
+## Day 5 – JavaScript Arrays
 
 Programs:
 1. Reverse an array
@@ -52,7 +52,7 @@ Concepts used:
 - Loops
 - Conditions
 
-Day 6 – Array Problems
+## Day 6 – Array Problems
 
 Programs:
 1. Sort 0s and 1s
@@ -63,22 +63,37 @@ Concepts used:
 - Loops
 - Objects
 
-Day 7 – Arrays Practice
+## Day 7 – Arrays Practice
 - Find maximum and minimum in array
 - Linear search in array
 - Sum and average of array elements
 
- Day 8 – Sorting and Array Operations
+ ## Day 8 – Sorting and Array Operations
 - Bubble sort
 - Reverse an array
 - Find second largest element
 
-- Day 9 – String Advanced Practice
+- ## Day 9 – String Advanced Practice
 - Count vowels in a string
 - Remove spaces from a string
 - Find the longest word in a sentence
 
-Day 10 – Patterns using Nested Loops
+ ## Day 10 – Patterns using Nested Loops
 - Star square pattern
 - Star right triangle pattern
 - Number triangle pattern
+
+- ## Day 11 – JavaScript Arrays
+
+ Files
+- array-basics.js
+- array-methods.js
+- array-practice.js
+
+ Topics Covered
+- Array creation
+- Accessing elements
+- Array length
+- push, pop, shift, unshift
+- Sum of array
+- Largest element
