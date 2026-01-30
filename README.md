@@ -97,3 +97,11 @@ Concepts used:
 - push, pop, shift, unshift
 - Sum of array
 - Largest element
+
+- ## Day 12 – JavaScript Array Methods
+
+## Topics Covered
+- forEach()
+- map()
+- filter()
+- reduce()
