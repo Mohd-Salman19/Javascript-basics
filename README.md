@@ -105,3 +105,12 @@ Concepts used:
 - map()
 - filter()
 - reduce()
+
+# Day 13 – JavaScript Objects
+
+## Topics Covered
+- Object creation
+- Accessing properties
+- Object methods
+- Adding & updating properties
+- for...in loop
