@@ -114,3 +114,11 @@ Concepts used:
 - Object methods
 - Adding & updating properties
 - for...in loop
+
+- ### Day 14 - DOM Basics
+
+Learned:
+- DOM introduction
+- getElementById
+- Button click event
+- Changing text using JavaScript
