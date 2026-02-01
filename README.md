@@ -115,10 +115,17 @@ Concepts used:
 - Adding & updating properties
 - for...in loop
 
-- ### Day 14 - DOM Basics
+- ## Day 14 - DOM Basics
 
 Learned:
 - DOM introduction
 - getElementById
 - Button click event
 - Changing text using JavaScript
+
+- ##  Day 15 - DOM Style Change
+
+Topics:
+- querySelector
+- style change using JavaScript
+- button click event
