@@ -129,3 +129,11 @@ Topics:
 - querySelector
 - style change using JavaScript
 - button click event
+
+- ## Day 16 - DOM Elements
+
+Topics learned:
+- createElement
+- appendChild
+- remove elements
+- simple todo list
