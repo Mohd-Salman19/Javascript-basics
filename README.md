@@ -137,3 +137,16 @@ Topics learned:
 - appendChild
 - remove elements
 - simple todo list
+
+- ## Day 17 - Counter App
+
+Mini project using:
+- HTML
+- JavaScript
+- DOM manipulation
+- Button events
+
+Features:
+- Increase value
+- Decrease value
+- Reset counter
