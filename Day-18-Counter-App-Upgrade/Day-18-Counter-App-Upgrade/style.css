@@ -1,0 +1,22 @@
+body {
+    text-align: center;
+    font-family: Arial;
+    margin-top: 100px;
+}
+
+.container {
+    width: 300px;
+    margin: auto;
+}
+
+#count {
+    font-size: 50px;
+    margin: 20px;
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 18px;
+    margin: 5px;
+    cursor: pointer;
+}
