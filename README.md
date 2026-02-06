@@ -151,32 +151,23 @@ Features:
 - Decrease value
 - Reset counter
 
-- let count = 0;
+- ## Day 18 - Counter App Upgrade
 
-function updateDisplay() {
-    let counter = document.getElementById("count");
-    counter.innerText = count;
+Features:
+- Increase counter
+- Decrease counter
+- Reset counter
+- Color changes based on value
 
-    if (count > 0) {
-        counter.style.color = "green";
-    } else if (count < 0) {
-        counter.style.color = "red";
-    } else {
-        counter.style.color = "black";
-    }
-}
+Technologies:
+HTML, CSS, JavaScript
 
-function increase() {
-    count++;
-    updateDisplay();
-}
 
-function decrease() {
-    count--;
-    updateDisplay();
-}
+- ## Day 19 - Random Color Generator
 
-function resetValue() {
-    count = 0;
-    updateDisplay();
-}
+Features:
+- Button click changes background color randomly
+- Uses JavaScript random function
+
+Technologies:
+HTML, CSS, JavaScript
