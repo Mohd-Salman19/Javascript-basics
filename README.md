@@ -171,3 +171,12 @@ Features:
 
 Technologies:
 HTML, CSS, JavaScript
+
+# Day 20 - Digital Clock
+
+Features:
+- Shows current time
+- Updates every second
+
+Technologies:
+HTML, CSS, JavaScript
