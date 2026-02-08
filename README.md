@@ -180,3 +180,13 @@ Features:
 
 Technologies:
 HTML, CSS, JavaScript
+
+# Day 21 - Stopwatch App
+
+Features:
+- Start stopwatch
+- Stop stopwatch
+- Reset stopwatch
+
+Technologies:
+HTML, CSS, JavaScript
