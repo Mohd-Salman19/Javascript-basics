@@ -190,3 +190,12 @@ Features:
 
 Technologies:
 HTML, CSS, JavaScript
+
+# Day 22 - Todo List App
+
+Features:
+- Add tasks
+- Remove tasks on click
+
+Technologies:
+HTML, CSS, JavaScript
