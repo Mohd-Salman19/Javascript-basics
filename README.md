@@ -199,3 +199,10 @@ Features:
 
 Technologies:
 HTML, CSS, JavaScript
+
+# Day 23 Weather App
+
+Search city to get temperature.
+
+Tech used:
+HTML, CSS, JavaScript, Weather API
