@@ -206,3 +206,6 @@ Search city to get temperature.
 
 Tech used:
 HTML, CSS, JavaScript, Weather API
+
+- # Day 24:
+-  Improved weather app with humidity, wind and icon
