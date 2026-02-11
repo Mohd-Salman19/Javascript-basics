@@ -209,3 +209,10 @@ HTML, CSS, JavaScript, Weather API
 
 - # Day 24:
 -  Improved weather app with humidity, wind and icon
+
+-  # Day 25: Todo app with local storage
+
+-  Day-25-Todo-App
+ ├── index.html
+ ├── style.css
+ └── script.js
