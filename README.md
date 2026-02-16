@@ -216,3 +216,9 @@ HTML, CSS, JavaScript, Weather API
  ├── index.html
  ├── style.css
  └── script.js
+
+
+Day-26-Digital-Clock
+ ├── index.html
+ ├── style.css
+ └── script.js
