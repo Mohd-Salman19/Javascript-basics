@@ -216,6 +216,10 @@ HTML, CSS, JavaScript, Weather API
  ├── index.html
  ├── style.css
  └── script.js
+Day-27-Stopwatch
+ ├── index.html
+ ├── style.css
+ └── script.js
 
 
 Day-26-Digital-Clock
