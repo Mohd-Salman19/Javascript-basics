@@ -234,3 +234,8 @@ Day-26-Digital-Clock
  ├── index.html
  ├── style.css
  └── script.js
+
+Day-30-Password-Generator
+ ├── index.html
+ ├── style.css
+ └── script.js
