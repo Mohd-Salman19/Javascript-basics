@@ -235,6 +235,11 @@ Day-26-Digital-Clock
  ├── style.css
  └── script.js
 
+ Day-31-Quiz-App
+ ├── index.html
+ ├── style.css
+ └── script.js
+
 Day-30-Password-Generator
  ├── index.html
  ├── style.css
