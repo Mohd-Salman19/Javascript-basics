@@ -1,0 +1,60 @@
+let quizData = [
+    {
+        question: "What is 2 + 2?",
+        options: ["3", "4", "5", "6"],
+        correct: "4"
+    },
+    {
+        question: "Which language runs in browser?",
+        options: ["Python", "Java", "C++", "JavaScript"],
+        correct: "JavaScript"
+    },
+    {
+        question: "HTML stands for?",
+        options: [
+            "Hyper Trainer Marking Language",
+            "Hyper Text Markup Language",
+            "High Text Machine Language",
+            "None"
+        ],
+        correct: "Hyper Text Markup Language"
+    }
+];
+
+let currentQuestion = 0;
+let score = 0;
+
+function loadQuestion() {
+    let q = quizData[currentQuestion];
+    document.getElementById("question").innerText = q.question;
+
+    let optionsDiv = document.getElementById("options");
+    optionsDiv.innerHTML = "";
+
+    q.options.forEach(option => {
+        let btn = document.createElement("button");
+        btn.innerText = option;
+
+        btn.onclick = function () {
+            if (option === q.correct) {
+                score++;
+            }
+        };
+
+        optionsDiv.appendChild(btn);
+    });
+}
+
+function nextQuestion() {
+    currentQuestion++;
+
+    if (currentQuestion < quizData.length) {
+        loadQuestion();
+    } else {
+        document.getElementById("quizBox").style.display = "none";
+        document.getElementById("result").innerText =
+            "Your Score: " + score + " / " + quizData.length;
+    }
+}
+
+loadQuestion();
