@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Expense Tracker</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<h1>Expense Tracker</h1>
+
+<h2>Balance: ₹ <span id="balance">0</span></h2>
+
+<h3>Income: ₹ <span id="income">0</span></h3>
+<h3>Expense: ₹ <span id="expense">0</span></h3>
+
+<input type="text" id="desc" placeholder="Description">
+<input type="number" id="amount" placeholder="Amount">
+
+<br><br>
+
+<button onclick="addTransaction('income')">Add Income</button>
+<button onclick="addTransaction('expense')">Add Expense</button>
+
+<ul id="transactionList"></ul>
+
+<script src="script.js"></script>
+</body>
+</html>
