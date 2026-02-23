@@ -244,3 +244,7 @@ Day-30-Password-Generator
  ├── index.html
  ├── style.css
  └── script.js
+ Day-32-Expense-Tracker
+ ├── index.html
+ ├── style.css
+ └── script.js
