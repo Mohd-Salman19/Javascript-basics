@@ -207,40 +207,40 @@ Search city to get temperature.
 Tech used:
 HTML, CSS, JavaScript, Weather API
 
-- # Day 24:
+## Day 24:
 -  Improved weather app with humidity, wind and icon
 
--  # Day 25: Todo app with local storage
+# # Day 25: Todo app with local storage
 
--  Day-25-Todo-App
+## Day-25-Todo-App
  ├── index.html
  ├── style.css
  └── script.js
-Day-27-Stopwatch
+## Day-27-Stopwatch
  ├── index.html
  ├── style.css
  └── script.js
-Day-28-Countdown-Timer
- ├── index.html
- ├── style.css
- └── script.js
-
-Day-26-Digital-Clock
+## Day-28-Countdown-Timer
  ├── index.html
  ├── style.css
  └── script.js
 
- Day-29-Notes-App
+## Day-26-Digital-Clock
  ├── index.html
  ├── style.css
  └── script.js
 
- Day-31-Quiz-App
+## Day-29-Notes-App
  ├── index.html
  ├── style.css
  └── script.js
 
-Day-30-Password-Generator
+## Day-31-Quiz-App
+ ├── index.html
+ ├── style.css
+ └── script.js
+
+## Day-30-Password-Generator
  ├── index.html
  ├── style.css
  └── script.js
@@ -249,12 +249,16 @@ Day-30-Password-Generator
  ├── style.css
  └── script.js
 
- Day-33-Calculator-App
+## Day-33-Calculator-App
  ├── index.html
  ├── style.css
  └── script.js
 
- Day-34-Advanced-Todo
+## Day-34-Advanced-Todo
+ ├── index.html
+ ├── style.css
+ └── script.js
+## Day-35-Digital-Clock
  ├── index.html
  ├── style.css
  └── script.js
